@@ -60,7 +60,7 @@ export default function LandingPage() {
               imageAlt: "Mountain landscape scenic hiking"
             },
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_30ordogEOn7VO6LZdIWb5atLXky/uploaded-1765983913459-d9y07rgf.jpg",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_30ordogEOn7VO6LZdIWb5atLXky/uploaded-1765984212707-k4y47v44.jpg",
               imageAlt: "European historic city architecture"
             }
           ]}
